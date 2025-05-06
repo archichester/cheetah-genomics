@@ -1,2 +1,2 @@
 # cheetah-genomics
-Trail Run 
+Proposal
